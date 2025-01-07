@@ -1,8 +1,5 @@
 # Skills4Future-Internship-Chatbot
 The Skills4Future Internship chatbot is a friendly assistant designed to support users with tasks, offering information, creative ideas, and technical help. It responds thoughtfully and accurately, ensuring natural, seamless interactions while adapting to users’ needs for a smooth experience every time.
-# Skills4Future-Internship-Chatbot
-The Skills4Future Internship chatbot is a friendly assistant designed to support users with tasks, offering information, creative ideas, and technical help. It responds thoughtfully and accurately, ensuring natural, seamless interactions while adapting to users’ needs for a smooth experience every time.
-
 
 Skills4Future Internship Chatbot 🤖🚀
 The Skills4Future Internship Chatbot is designed to streamline the application process, provide detailed program insights, and assist applicants in determining their eligibility. Using advanced Natural Language Processing (NLP) techniques and machine learning models, this chatbot creates a user-friendly and interactive experience for aspiring interns.
