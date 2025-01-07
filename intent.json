@@ -1,0 +1,137 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "hi",
+                "hey",
+                "hello",
+                "how are you",
+                "good morning",
+                "good afternoon",
+                "good evening",
+                "what's up",
+                "yo",
+                "howdy",
+                "hiya",
+                "sup",
+                "greetings"
+            ],
+            "responses": [
+                "Hello! How can I assist you today?",
+                "Hey there! What can I help you with?",
+                "Hi! Feel free to ask any questions about the Skills4Future Internship."
+            ]
+        },
+        {
+            "tag": "application",
+            "patterns": [
+                "how can I apply",
+                "application process",
+                "application link",
+                "fees for application",
+                "how to apply for the internship"
+            ],
+            "responses": [
+                "To apply for the Skills4Future Internship, visit our website (www.skills4future.org), create an account, and fill out the application form with your details.",
+                "You can apply for the Skills4Future Internship through our application portal: www.skills4future.org/apply.",
+                "There are no fees to apply for the Skills4Future Internship. It is free to apply."
+            ]
+        },
+        {
+            "tag": "eligibility",
+            "patterns": [
+                "eligibility",
+                "who can apply",
+                "requirements for application"
+            ],
+            "responses": [
+                "To apply for the Skills4Future AI internship, you should have a basic understanding of AI concepts, programming skills (in Python or similar languages), and a keen interest in sustainability.",
+                "Students, recent graduates, and early-career professionals with a background in AI, computer science, environmental science, or related fields can apply for the Skills4Future internship."
+            ]
+        },
+        {
+            "tag": "deadline",
+            "patterns": [
+                "what is the application deadline",
+                "deadline for application",
+                "when is the application due"
+            ],
+            "responses": [
+                "The application deadline for the current internship cycle is 31st December 2024. Ensure that your application is submitted before the deadline."
+            ]
+        },
+        {
+            "tag": "company_info",
+            "patterns": [
+                "tell me about Skills4Future",
+                "what is Skills4Future",
+                "company history",
+                "founders of Skills4Future"
+            ],
+            "responses": [
+                "Skills4Future was founded in 2018 with the goal of providing AI and tech-related internships to students and young professionals.",
+                "Skills4Future was founded by Dr. Sarah Lee, an AI expert, and John Smith, a sustainability advocate."
+            ]
+        },
+        {
+            "tag": "projects",
+            "patterns": [
+                "ongoing projects",
+                "current internships topics",
+                "past internships topics",
+                "future internships topics"
+            ],
+            "responses": [
+                "Current internships focus on AI for sustainable energy management, climate change analysis, and waste management using data-driven approaches.",
+                "Previous projects included developing AI solutions for water conservation, predicting environmental impacts, and optimizing energy usage in urban settings.",
+                "Future programs will tackle advanced topics like AI for renewable energy optimization, climate change mitigation, and smart agriculture using deep learning and IoT."
+            ]
+        },
+        {
+            "tag": "contact",
+            "patterns": [
+                "how can I contact you",
+                "contact information",
+                "email address",
+                "where to get more information"
+            ],
+            "responses": [
+                "You can contact us at support@skills4future.org for more information or queries related to the internship.",
+                "If you need further assistance, feel free to reach out to our support team at support@skills4future.org or call us at +1234567890."
+            ]
+        },
+        {
+            "tag": "chatbot_info",
+            "patterns": [
+                "who are you",
+                "what is this chatbot",
+                "what can you do"
+            ],
+            "responses": [
+                "I'm the Skills4Future Internship Chatbot, here to help you with information about the program.",
+                "I am a chatbot designed to provide information about the Skills4Future Internship program, including application details, eligibility, and more."
+            ]
+        },
+        {
+            "tag": "thank_you",
+            "patterns": [
+                "thank you",
+                "thanks",
+                "appreciate it"
+            ],
+            "responses": [
+                "You're welcome! If you have any more questions, feel free to ask.",
+                "I'm glad I could help! If you need anything else, just let me know."
+            ]
+        },
+        {
+            "tag": "no_answer",
+            "patterns": [],
+            "responses": [
+                "I'm sorry, I didn't quite understand that. Can you please rephrase?",
+                "I’m not sure how to respond to that. Could you ask something else?"
+            ]
+        }
+    ]
+}
