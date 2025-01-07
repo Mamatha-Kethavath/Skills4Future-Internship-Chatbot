@@ -7,6 +7,7 @@ The Skills4Future Internship Chatbot is designed to streamline the application p
 
 
 🚀 Features
+
 Eligibility Checker: Assesses whether users meet the program requirements by analyzing their input.
 FAQ Matching: Employs advanced similarity models to provide accurate answers to frequently asked questions.
 Interactive Interface: Built using Streamlit for a seamless and visually appealing experience.
@@ -16,6 +17,7 @@ Conversation Logging: Tracks interactions to improve performance and analyze tre
 
 
 🛠 Tools and Technologies
+
 Programming Language: Python
 NLP Libraries:
 NLTK
@@ -30,6 +32,7 @@ os and json for file handling
 
 
 🧠 Methodology
+
 Data Preparation
 Eligibility criteria and FAQ data stored in structured JSON format.
 Customized dataset for common internship-related queries.
@@ -48,6 +51,7 @@ Logs interactions for evaluation and performance improvement.
 
 
 Prerequisites
+
 Python 3.8 or above
 Required Python libraries:
 nltk
@@ -68,13 +72,19 @@ assets/: Contains additional resources such as datasets and pre-trained models.
 
 
 🤖 Try now:
+
 Skills4Future Chatbot: [Insert Link Here]
 
 
 
 📬 Contact
+
 If you have any questions, feedback, or suggestions, feel free to reach out:
+
 Author: Mamatha Kethavath
+
 Email: mamatharathod89@gmail.com
+
 GitHub: Mamatha-Kethavath
+
 LinkedIn: Mamatha Kethavath
